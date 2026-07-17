@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Halo, Saya Abriel Rizq!
 
-<!--
-**abrielrizq/abrielrizq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang antusias teknologi yang sedang fokus mempelajari pengembangan perangkat lunak dan pembuatan website. Portofolio ini adalah tempat saya mendokumentasikan perjalanan belajar dan proyek-proyek coding saya.
 
-Here are some ideas to get you started:
+## 🚀 Tentang Saya
+- 💻 Sedang aktif mempelajari: **HTML, CSS, dan JavaScript**
+- 📚 Status saat ini: Belajar secara mandiri / Mahasiswa
+- 🎯 Target jangka pendek: Membangun proyek web responsif pertama saya
+- 📫 Cara menghubungi saya: www.linkedin.com/in/abrielrizqfauzi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Keahlian & Alat (Skills)
+- **Bahasa & Web:** HTML5, CSS3, JavaScript
+- **Alat Kerja:** VS Code, Git, GitHub
+
+
+
+
